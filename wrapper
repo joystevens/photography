@@ -1,0 +1,28 @@
+<!DOCTYPE hmto PUBLIC "-//w3C//DTD HTML 4.01 Transitional//#N">
+<html>
+ 
+<head>
+       <title>Joy Stevens Photography</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<style>
+body {
+     margin: 0;
+     padding: 0;
+}
+body, iframe {
+     width: 100%;
+     height: 100%;
+}
+iframe {
+     border: 0;
+}
+</style>
+
+<body>
+     <iframe src="http://www.joystevens.co.uk"/>
+</body>
+
+</html>
